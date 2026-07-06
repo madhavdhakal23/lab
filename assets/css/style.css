@@ -58,7 +58,7 @@ p{margin:0 0 1rem}
 .brand{display:flex;align-items:center;gap:12px;font-family:var(--font-display);
   font-weight:600;font-size:1.06rem;color:var(--ink);text-decoration:none;line-height:1.1}
 .brand:hover{text-decoration:none}
-.brand .mark{width:44px;height:44px;flex:0 0 auto;
+.brand .mark{width:100px;height:100px;flex:0 0 auto;
   background:url("../../images/logo_seal.png") center/contain no-repeat;
   font-size:0;line-height:0}
 .brand small{display:block;font-family:var(--font-body);font-weight:500;
